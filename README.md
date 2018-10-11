@@ -17,6 +17,13 @@ The ECS Tutorials For Unity
 #### Window-> Package Manager -> All -> [Package name] -> Install | Version
 ![InstallPackage](./Readme/Images/InstallPackage.png)
 
+### 5.Check your project settings
+#### File-> Build Settings (Ctrl+Shift+B)
+![ComplingErrors](./Readme/Images/ComplingErrors.png)
+![PlayerSettings](./Readme/Images/PlayerSettings.png)
+![DotNet4.x](./Readme/Images/DotNet4.x.png)
+![Restart](./Readme/Images/Restart.png)
+
 
 
 
