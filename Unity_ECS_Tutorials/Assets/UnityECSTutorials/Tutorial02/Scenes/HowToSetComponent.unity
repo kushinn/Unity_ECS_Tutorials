@@ -214,11 +214,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1554328189}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56f1d9e9c6558b04c8f10564e4022234, type: 3}
+  m_Script: {fileID: 11500000, guid: 8d019bbdd3c31ef488365335b55984d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   playerMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-  playerMaterial: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  playerMaterial: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
 --- !u!4 &1554328191
 Transform:
   m_ObjectHideFlags: 0

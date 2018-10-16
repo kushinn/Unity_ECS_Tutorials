@@ -2,7 +2,7 @@
 using Unity.Rendering;
 using Unity.Transforms;
 
-namespace RafeTutorials.Tutorials1
+namespace RafeTutorials.Tutorials2
 {
     public sealed class EntitySpawnManager
     {
