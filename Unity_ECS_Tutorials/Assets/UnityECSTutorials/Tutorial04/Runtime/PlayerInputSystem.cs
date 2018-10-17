@@ -28,6 +28,7 @@ namespace RafeTutorials.Tutorials4
             {
                 players.inputs[i] = new PlayerInput()
                 {
+                    // W A S D
                     move = new float3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0)
                 };
             }
